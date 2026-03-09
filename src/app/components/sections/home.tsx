@@ -12,7 +12,7 @@ export function HomeSection() {
       {/* Fondo */}
       <div className="absolute inset-0 -z-10">
         <Image
-          src="/PisinaFondo.png"
+          src="/pisinaFondo.png"
           alt=""
           fill
           priority
